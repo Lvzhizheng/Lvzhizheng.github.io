@@ -2,12 +2,12 @@
 title: "Deterrence of intelligent DDoS via multi-hop traffic divergence"
 collection: publications
 permalink: /publication/2021-10-01-Deterrence-of-intelligent-DDoS-via-multi-hop-traffic-divergence
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is a new strategy about a simple, provably effective, and readily usable deterrence against intelligent, unknown DDoS threats.'
 date: 2021-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'CCS 2021'
+slidesurl: 'https://www.youtube.com/watch?v=Gol9zO8APXs'
+paperurl: 'https://d1wqtxts1xzle7.cloudfront.net/86387149/3460120-libre.pdf?1653371981=&response-content-disposition=inline%3B+filename%3DDeterrence_of_Intelligent_DDoS_via_Multi.pdf&Expires=1736589437&Signature=E6vFf0kjXbjlRTy8X04~jcuWlfDB7zEeNuH81Z7tciPbWwz5dMftYPQ7SrpZugGqQkIG3wfWy5uL9tvNGAOerraJtxwGFs5mtcdyaa8iwWvH-EZf9XO4AhfCX1Dmr74-WYdY8E-2Oeb0jVeF6snpalv10lbvISrJYCAuemwdh4lES-1UtIF-iKzWPD7FuelwNnpWYG1ej5658Wfo40ZD8HIFZKYIYS3D6nMBjuK4W2gd72e8ONzNtpAEXQh0yPhbVsI~XSTRv8kK-mgJFOPk71b8tz5Lh-YAXd1vAQCo3Bkvm1VAuDUUFNugwYcg71rKmV8qTluk51HcTfWSNXa7DQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA'
+citation: '@inproceedings{li2021eid, title={Deterrence of Intelligent DDoS via Multi-Hop Traffic Divergence}, author={Li, Yuanjie and Li, Hewu and Lv, Zhizheng and Yao, Xingkun and Li, Qianru and Wu, Jianping}, booktitle={Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (CCS)}, year={2021}, organization={ACM} }'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We devise a simple, provably effective, and readily usable deterrence against intelligent, unknown DDoS threats: Demotivate adversaries to launch attacks via multi-hop traffic divergence. This new strategy is motivated by the fact that existing defenses almost always lag behind numerous emerging DDoS threats and evolving intelligent attack strategies. The root cause is if adversaries are smart and adaptive, no single-hop defenses (including optimal ones) can perfectly differentiate unknown DDoS and legitimate traffic. Instead, we formulate intelligent DDoS as a game between attackers and defenders, and prove how multi-hop traffic divergence helps bypass this dilemma by reversing the asymmetry between attackers and defenders. This insight results in EID, an Economical Intelligent DDoS Demotivation protocol. EID combines local weak (yet divergent) filters to provably null attack gains without knowing exploited vulnerabilities or attack strategies. It incentivizes multi-hop defenders to cooperate with boosted local service availability. EID is resilient to traffic dynamics and manipulations. It is readily deployable with random-drop filters in real networks today. Our experiments over a 49.8 TB dataset from a department at the Tsinghua campus network validate EID’s viability against rational and irrational DDoS with negligible costs.
