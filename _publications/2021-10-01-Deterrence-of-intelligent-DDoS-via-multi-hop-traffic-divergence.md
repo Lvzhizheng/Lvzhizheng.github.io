@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-10-01-Deterrence-of-intelligent-DDoS-via-multi-hop-traffic-divergence
 excerpt: 'This paper is a new strategy about a simple, provably effective, and readily usable deterrence against intelligent, unknown DDoS threats.'
 date: 2021-10-01
-venue: 'CCS 2021'
+venue: 'CCS'
 slidesurl: 'https://www.youtube.com/watch?v=Gol9zO8APXs'
 paperurl: 'https://d1wqtxts1xzle7.cloudfront.net/86387149/3460120-libre.pdf?1653371981=&response-content-disposition=inline%3B+filename%3DDeterrence_of_Intelligent_DDoS_via_Multi.pdf&Expires=1736589437&Signature=E6vFf0kjXbjlRTy8X04~jcuWlfDB7zEeNuH81Z7tciPbWwz5dMftYPQ7SrpZugGqQkIG3wfWy5uL9tvNGAOerraJtxwGFs5mtcdyaa8iwWvH-EZf9XO4AhfCX1Dmr74-WYdY8E-2Oeb0jVeF6snpalv10lbvISrJYCAuemwdh4lES-1UtIF-iKzWPD7FuelwNnpWYG1ej5658Wfo40ZD8HIFZKYIYS3D6nMBjuK4W2gd72e8ONzNtpAEXQh0yPhbVsI~XSTRv8kK-mgJFOPk71b8tz5Lh-YAXd1vAQCo3Bkvm1VAuDUUFNugwYcg71rKmV8qTluk51HcTfWSNXa7DQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA'
 citation: '@inproceedings{li2021eid, title={Deterrence of Intelligent DDoS via Multi-Hop Traffic Divergence}, author={Li, Yuanjie and Li, Hewu and Lv, Zhizheng and Yao, Xingkun and Li, Qianru and Wu, Jianping}, booktitle={Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (CCS)}, year={2021}, organization={ACM} }'
