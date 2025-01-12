@@ -7,7 +7,7 @@ date: 2022-11-07
 venue: 'CCS'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3548606.3560598'
-citation: 'Yuan Li, Wende Tan, Zhizheng Lv, Songtao Yang, Mathias Payer, Ying Liu, and Chao Zhang. 2022. PACMem: Enforcing Spatial and Temporal Memory Safety via ARM Pointer Authentication. In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS '22). Association for Computing Machinery, New York, NY, USA, 1901–1915. https://doi.org/10.1145/3548606.3560598.'
+citation: 'Yuan Li, Wende Tan, Zhizheng Lv, Songtao Yang, Mathias Payer, Ying Liu, and Chao Zhang. 2022. PACMem: Enforcing Spatial and Temporal Memory Safety via ARM Pointer Authentication. In Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS22). Association for Computing Machinery, New York, NY, USA, 1901–1915. https://doi.org/10.1145/3548606.3560598.'
 ---
 
 Memory safety is a key security property that stops memory corruption vulnerabilities. Different types of memory safety enforcement solutions have been proposed and adopted by sanitizers or mitigations to catch and stop such bugs, at the development or deployment phase. However, existing solutions either provide partial memory safety or have overwhelmingly high performance overheads.
