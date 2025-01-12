@@ -1,5 +1,5 @@
 ---
-title: "Pacmem: Enforcing spatial and temporal memory safety via arm pointer authentication"
+title: "Pacmem Enforcing spatial and temporal memory safety via arm pointer authentication"
 collection: publications
 permalink: /publication/2022-11-07-Pacmem-Enforcing-spatial-and-temporal-memory-safety-via-arm-pointer-authentication
 excerpt: 'This paper is about a novel sanitizer PACMem to efficiently catch spatial and temporal memory safety bugs.'
